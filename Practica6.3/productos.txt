@@ -1,0 +1,5 @@
+Laptop Lenovo|Electrónica|12999.99|10
+Teclado Mecánico|Accesorios|899.5|25
+Monitor 24"|Electrónica|3499|8
+Silla Ergonómica|Mobiliario|2150|5
+Webcam HD|Accesorios|650|15
